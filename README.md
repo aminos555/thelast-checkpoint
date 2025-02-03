@@ -1,1 +1,2 @@
-# thelast-checkpoint
+# the last-checkpoint
+I feel highly motivated and prepared to take the next step in my career as a software developer. The GoMyCode Bootcamp has equipped me with a strong foundation in both technical and soft skills, which has significantly boosted my confidence. I am eager to apply what I've learned in real-world scenarios and continue growing as a professional in the tech industry. While I acknowledge that there is always more to learn, I am ready to embrace challenges and adapt to new environments.
